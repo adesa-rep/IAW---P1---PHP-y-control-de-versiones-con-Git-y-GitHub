@@ -1,4 +1,5 @@
-A continuacion se muestra el enunciado del ejercicio cuyo codigo se desarrolla en la carpeta "Con CSS". Sin embargo, les invito a utilizar Codespaces y desde la carpeta docker ejecutar el comando `docker-compose up -d`. Luego, desde la pestaña de puertos, acceder al enlace bajo el campo "direccion reenviada" que seria el equivalente a localhost en este entorno.
+> ![tip] Recomendación
+> A continuacion se muestra el enunciado del ejercicio cuyo codigo se desarrolla en la carpeta "Con CSS". Sin embargo, les invito a utilizar Codespaces y desde la carpeta docker ejecutar el comando `docker-compose up -d`. Luego, desde la pestaña de puertos, acceder al enlace bajo el campo "direccion reenviada" que seria el equivalente a localhost en este entorno.
 
 ---
 # PHP y control de versiones con Git y GitHub
