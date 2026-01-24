@@ -1,0 +1,15 @@
+services:
+  web-server:
+    image: php:8.2-apache
+    container_name: asir-php-container
+    ports:
+      - "8080:80"
+    volumes:
+      # Mapeamos la carpeta local al document root por defecto de Apache
+      - "./Con CSS:/var/www/html"
+    networks:
+      - backend
+
+networks:
+  backend:
+    driver: bridge
